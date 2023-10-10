@@ -104,5 +104,5 @@ OSVersion: focal
 %files
 
 %runscript
-#test itt
+#test it
 %test
